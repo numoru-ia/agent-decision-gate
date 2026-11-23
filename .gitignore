@@ -1,0 +1,5 @@
+/bin/
+/models/
+*.gz
+audit*.jsonl
+coverage.out

@@ -1,0 +1,10 @@
+{
+  "name": "my-decision-service",
+  "source": "Template for an in-house decision service (for example a self-hosted open-weights model behind a small HTTP wrapper). Adapt url, body and paths to your API.",
+  "url": "http://localhost:8080/v1/decide",
+  "headers": {"Authorization": "Bearer ${DECISION_API_KEY}"},
+  "body": "{\"question\": {{json .Question.Name}}, \"labels\": {{json .Labels}}, \"state\": {{json .State}}}",
+  "label_path": "label",
+  "confidence_path": "confidence",
+  "cost_per_call_usd": 0
+}

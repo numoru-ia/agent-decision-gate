@@ -1,0 +1,13 @@
+{
+  "name": "cola_soporte",
+  "description": "¿A qué cola de soporte va este ticket de una plataforma mexicana de facturación electrónica (CFDI 4.0)?",
+  "labels": [
+    {"name": "cfdi_rechazado", "description": "El PAC o el SAT rechazó o no validó una factura de ingreso o egreso (errores CFDI40xxx, RFC, régimen, código postal, estructura)."},
+    {"name": "complemento_pago", "description": "Todo lo del recibo electrónico de pago (REP) 2.0: parcialidades, PPD, saldo insoluto, incluidos sus errores al timbrar."},
+    {"name": "cancelacion", "description": "Cancelar o anular cualquier CFDI: motivos 01-04, aceptación del receptor, acuses, sustitución."},
+    {"name": "certificado_csd", "description": "Certificado de sello digital: .cer/.key, contraseña de la llave privada, vigencia, revocación o restricción."},
+    {"name": "acceso_cuenta", "description": "Iniciar sesión, contraseñas, verificación en dos pasos, usuarios y permisos de la cuenta."},
+    {"name": "facturacion_general", "description": "Cómo hacer algo al facturar: catálogos, series, PDF, factura global, addendas, reportes, integraciones."},
+    {"name": "escalar_humano", "description": "Necesita una persona: enojo o queja formal, cobros de la plataforma, suscripción, seguridad o fuga de datos, temas legales o comerciales."}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "jev",
+  "source": "Request/response shape taken from the public quickstart at https://docs.typesafe.ai/introduction/quickstart.md, read 2026-11-22. Not tested against the live API (no key). Check the current docs before use.",
+  "url": "https://api.typesafe.ai/v1/systemone",
+  "method": "POST",
+  "headers": {"Authorization": "Bearer ${TYPESAFE_API_KEY}"},
+  "body": "{\"model\": \"jev-1.14.0\", \"state\": {{json .State}}, \"questions\": {\"q\": {\"type\": \"choice\", \"instructions\": {{json .Question.Description}}, \"criteria\": { {{- range $i, $l := .Question.Labels}}{{if $i}}, {{end}}{{json $l.Name}}: {{json $l.Description}}{{end -}} }}}}",
+  "label_path": "answers.q.choice",
+  "confidence_path": "answers.q.confidence",
+  "probs_path": "answers.q.probabilities",
+  "timeout_seconds": 10
+}

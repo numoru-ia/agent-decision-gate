@@ -1,0 +1,100 @@
+{"id":"syn-test-001","text":"saludos. quiero cancelar mi suscripción y q no me cobren el próximo mes. es para una factura de 12,500 pesos. mi rfc es xaxx010101000","label":"escalar_humano"}
+{"id":"syn-test-002","text":"Buen dia. Mi cuenta esta bloqueada por intentos fallidos. Ayuda porfa","label":"acceso_cuenta"}
+{"id":"syn-test-003","text":"Cancele una factura y sigue apareciendo como vigente en el SAT. Ayuda porfa","label":"cancelacion"}
+{"id":"syn-test-004","text":"Emiti el complemento de pago con fecha equivocada, se puede corregir? Es urgente porque cierro mes.","label":"complemento_pago"}
+{"id":"syn-test-005","text":"Hola equipo de soporte, quiero anular el CFDI de un cliente que nunca me pago Ya actualice mi certificado el mes pasado. Es urgente porque cierro mes","label":"cancelacion"}
+{"id":"syn-test-006","text":"al cargar el sello me marca que el certificado no pertnece al rfc de la cuenta. saludos","label":"certificado_csd"}
+{"id":"syn-test-007","text":"Es la primera vez que me pasa. Quiero desactivar la autenticación en dos pasos","label":"acceso_cuenta"}
+{"id":"syn-test-008","text":"no me deja entrar desde la app, desde la compu si Gracias.","label":"acceso_cuenta"}
+{"id":"syn-test-009","text":"Hola, Cuantos timbres me quedan en el paquete? Les mano captura","label":"facturacion_general"}
+{"id":"syn-test-010","text":"¿Dónde veo el reporte de ventas factdas por cliente?","label":"facturacion_general"}
+{"id":"syn-test-011","text":"Como emito factura a un cliente extranjero","label":"facturacion_general"}
+{"id":"syn-test-012","text":"Saludos. La version del complemento de pagos que genera su sistema es la 2.0? Muchas gracias de antemano.","label":"complemento_pago"}
+{"id":"syn-test-013","text":"como pongo mi logo en el pdf de la faactura?","label":"facturacion_general"}
+{"id":"syn-test-014","text":"oigan, mi cuenta está bloqueaa por intentos fallidos. mi contador me dijo que les escribirea. es urgente porque cierro mes.","label":"acceso_cuenta"}
+{"id":"syn-test-015","text":"Sube el .cer perro el .key se queda cargando. Quedo atento.","label":"certificado_csd"}
+{"id":"syn-test-016","text":"occupo sacar el rep de una fact de 2025, se puede","label":"complemento_pago"}
+{"id":"syn-test-017","text":"Hola equipo de soporte, Mi empresa va a migrar 20 mil facturas desde otro proveedor y necesitamos acompañamiento. Mi RFC es XAXX010101000.","label":"escalar_humano"}
+{"id":"syn-test-018","text":"Saludos. La version del complemento de pagos que genera su sistema es la 2.0? Gracias.","label":"complemento_pago"}
+{"id":"syn-test-019","text":"Hola, Hice la factura dos veces por error, quiero anular una. Es urgente porque cierro mes.","label":"cancelacion"}
+{"id":"syn-test-020","text":"Emiti el complemento de pago con fecha equivocada, se puede corregir?","label":"complemento_pago"}
+{"id":"syn-test-021","text":"Hola, Me sale el error CFDI40147 al timbrar una factura, dice que el RFC del receptor no está en la lista de contribuyentes.","label":"cfdi_rechazado"}
+{"id":"syn-test-022","text":"Hola buenas, Cuando entro con Google me crea una cuenta nueva vacía. Ayer sí pude timbrar sin problema.","label":"acceso_cuenta"}
+{"id":"syn-test-023","text":"Saludos. Se borro el certificado de la configuracion despues de la actualizacion. Tengo el plan Pyme. Les mando captura.","label":"certificado_csd"}
+{"id":"syn-test-024","text":"hola equipo de soporte, hice la factura dos veces por error, quiero anular una. saludos","label":"cancelacion"}
+{"id":"syn-test-025","text":"Cómo emito factura a un cliente extranjero Mi contador me dijo que les escribiera. Saludos","label":"facturacion_general"}
+{"id":"syn-test-026","text":"Tengo una auditoria del SAT mañana y necesito que alguien revise conmigo todas mis facturas del año.","label":"escalar_humano"}
+{"id":"syn-test-027","text":"buenas tardes, me aparece un error de redondeo en impuestos trasladados y no timbra.","label":"cfdi_rechazado"}
+{"id":"syn-test-028","text":"olvidé con qué correo me registré","label":"acceso_cuenta"}
+{"id":"syn-test-029","text":"se borro el certificado de la configuracion despues de la acutalizacion. quedo atento.","label":"certificado_csd"}
+{"id":"syn-test-030","text":"cómo facturo un anticipo","label":"facturacion_general"}
+{"id":"syn-test-031","text":"Hola buenas, Ya es el cuarto ticket que abro por lo mismo, esto es inaceptable. Es urgente porque cierro mes.","label":"escalar_humano"}
+{"id":"syn-test-032","text":"No se que uso de CFDI ponerle a un cliente que es persona fisica sin actividadd.","label":"facturacion_general"}
+{"id":"syn-test-033","text":"oigan, ya revise la guia de ayuda. donde descargo el pdf del comprobante de pago q hice ayer? quedo al pendiente.","label":"complemento_pago"}
+{"id":"syn-test-034","text":"El clinte pago con cheque y luego lo reboto el banco, que hago con el complemento que ya emiti","label":"complemento_pago"}
+{"id":"syn-test-035","text":"Hice un recibo electrónico de pago pero el número de parcialidad salió mal.","label":"complemento_pago"}
+{"id":"syn-test-036","text":"Qué tal, Sube el .cer pero el .key se queda carando.","label":"certificado_csd"}
+{"id":"syn-test-037","text":"Disculpen, Tengo dos sucursalles, ¿necesito un CSD por cada una? Tnego el plan Pyme.","label":"certificado_csd"}
+{"id":"syn-test-038","text":"Qué tal, Necesito el acuse de cancelación para mi contador. Les mando captura.","label":"cancelacion"}
+{"id":"syn-test-039","text":"Hola buenas, Necesito el acuse de cancelación para mi contador. Quedo al pendiente.","label":"cancelacion"}
+{"id":"syn-test-040","text":"disculpen, el pac me rechaza la factura porque el régimen fiscal del receptor no corresponde con su rfc. gracias.","label":"cfdi_rechazado"}
+{"id":"syn-test-041","text":"hola, al cargar el sello me marca que el certificado no pertenece al rfc de la cuena.","label":"certificado_csd"}
+{"id":"syn-test-042","text":"Hola, Ya revisé la guía de ayuda. Mi CSD está vigente preo la plataforma dice q expiró. Es urgente xq cierro mes.","label":"certificado_csd"}
+{"id":"syn-test-043","text":"Hola equipo de soporte, La factura salio con el nombre de otra empresa, se mezclaron los datos de clientes? Ya actualice mi certificado el mes pasado. Gracias.","label":"escalar_humano"}
+{"id":"syn-test-044","text":"Disculpen, Llevo una semana sin poder factr y nadie me responde, quiero hablar con un supervisor. Es urgente porq cierro mes.","label":"escalar_humano"}
+{"id":"syn-test-045","text":"Buenas tardes, Hay un cargo en mi tarjeta que no reconozco de su empresa. Ayuda porfa","label":"escalar_humano"}
+{"id":"syn-test-046","text":"Me llego un aviso de que mi certificado vence en 15 dias, que tengo que hacer? Es urgente porque cierro mes.","label":"certificado_csd"}
+{"id":"syn-test-047","text":"que tal, no se que uso de cfdi ponerle a un clliente que es persona fisica sin actividad. saludos","label":"facturacion_general"}
+{"id":"syn-test-048","text":"Me dice que la factura no se puede cancelar porque tiene documentos relacionados. Es para una factura de 12,500 pesos. Ya revise la documentacion y nada","label":"cancelacion"}
+{"id":"syn-test-049","text":"Buenas tardes, Es la primera vez q me pasa. Ya es el cuarto ticket que abro por lo mismo, esto es inaceptable.","label":"escalar_humano"}
+{"id":"syn-test-050","text":"Disculpen, Me salió CFDI40102 y no sé qué hacer, tengo que mandar la factura hoy. Quedo atento.","label":"cfdi_rechazado"}
+{"id":"syn-test-051","text":"Hola, Dice que mi usuario no existe pero llevo añso facturando aqui. Mi RFC es XAXX010101000.","label":"acceso_cuenta"}
+{"id":"syn-test-052","text":"Quiero cancelar mi suscripcion y que no me cobren el proximo mes","label":"escalar_humano"}
+{"id":"syn-test-053","text":"Hola, Cuando entro con Google me crea una cuenta nueva vacia. Muchas gracias de antemano","label":"acceso_cuenta"}
+{"id":"syn-test-054","text":"bueans tardes, me llego un aviso del sat de que mi proveedor solicito cancelar una fact, donde la acepto? gracias","label":"cancelacion"}
+{"id":"syn-test-055","text":"la semana pasada cancelé otra factura sin problema. los abonos que registro no se reflejan en el saldo pendiente de la factura.","label":"complemento_pago"}
+{"id":"syn-test-056","text":"Qué tal, El cliente ya me pagó. Me llegó un aviso del SAT de que mi proveedor solicitó cancelar una factura, ¿dónde la acepto?","label":"cancelacion"}
+{"id":"syn-test-057","text":"Saludos. Tengo una auditoría del SAT mañana y necesito que alguien revise conmigo todas mis facturas del año. Gracias","label":"escalar_humano"}
+{"id":"syn-test-058","text":"qué tal, cómo pongo el folio fiscal que sustituye cuando cancelo con motivo 01? les mando captura.","label":"cancelacion"}
+{"id":"syn-test-059","text":"me aparece un error de rdondeo en impuestos trasladados y no timbra.","label":"cfdi_rechazado"}
+{"id":"syn-test-060","text":"hoal, cuantos timbres me quedan en el paquete? muchas gracias de antemano.","label":"facturacion_general"}
+{"id":"syn-test-061","text":"¿puedo poner notas o comentarios en el pdf de la factura? ya revisé la documentación y nada.","label":"facturacion_general"}
+{"id":"syn-test-062","text":"Se puede conectar su sistema con mi tienda en linea para facturar automatico?","label":"facturacion_general"}
+{"id":"syn-test-063","text":"mi csd esta vigente pero la plataforma dice que expiro","label":"certificado_csd"}
+{"id":"syn-test-064","text":"El complemento de pago 2.0 me pide el objeto de impuesto del documento relacionado y no se que poner.","label":"complemento_pago"}
+{"id":"syn-test-065","text":"Buen dia. Olvide con que correo me registre.","label":"acceso_cuenta"}
+{"id":"syn-test-066","text":"Buen día. Ayer sí pude timbrar sin problemaa. La operación no se concretó, ¿qué motivo de cancelación aplica? Gracias.","label":"cancelacion"}
+{"id":"syn-test-067","text":"Me llego un aviso de que mi certificado vence en 15 dias, que tengo que hacer?","label":"certificado_csd"}
+{"id":"syn-test-068","text":"buen dia. el cliente ya me pago. como agrego a mi contador como usuario con permisos solo de lectura? muchas gracias de antemano.","label":"acceso_cuenta"}
+{"id":"syn-test-069","text":"Buen día. Estoy facturando un anticipo y me lo rechaza, creo q algo del tipo de relación. Ya revisé la documentación y nada","label":"cfdi_rechazado"}
+{"id":"syn-test-070","text":"Buen día. Quiero que mi contador cargue el certificado sin darle mi contraseña. Muchas gracias de antemano.","label":"certificado_csd"}
+{"id":"syn-test-071","text":"hola buenas, estoy facturando un anticipo y me lo rechaza, creo que algo del tipo de relacion. quedo atento.","label":"cfdi_rechazado"}
+{"id":"syn-test-072","text":"Buenas tardes, Como pongo mi logo en el PDF de la factura? Les mando captura.","label":"facturacion_general"}
+{"id":"syn-test-073","text":"Cancelé una factura y sigue apareciendo como vigente en el SAT.","label":"cancelacion"}
+{"id":"syn-test-074","text":"ocupo sacar el rep de una factura de 2025, se puede? ayuuda porfa","label":"complemento_pago"}
+{"id":"syn-test-075","text":"Buenas tardes, no me deja entrar desde la app, desde la compu si Tengo el plan Pyme. Ayuda porfa","label":"acceso_cuenta"}
+{"id":"syn-test-076","text":"Hola buenas, Como agrego a mi contador como usuario con permisos solo de lectura? Muchas gracias de antemano.","label":"acceso_cuenta"}
+{"id":"syn-test-077","text":"Mi empresa va a migrar 20 mil facturas desde otro proveedor y necesitamos acompañamiento","label":"escalar_humano"}
+{"id":"syn-test-078","text":"oigan, me saale el erorr cfdi40147 al timbrar una factura, dice que el rfc del receptor no está en la lista de contribuyentes. les mando captura.","label":"cfdi_rechazado"}
+{"id":"syn-test-079","text":"Qué tal, Tengo el plan Pyme. Me marca error en el atributo Exportacion cuando timbro, nunca lo había visto. Quedo atento.","label":"cfdi_rechazado"}
+{"id":"syn-test-080","text":"hola buenas, mi fact con objeto de impuesto 02 sale rechazada si el concepto no lleva iva. ayuda porfa","label":"cfdi_rechazado"}
+{"id":"syn-test-081","text":"Ayer si pude timbrar sin problema. Error 301 al timbrar, estructura mal formada. Lo genero desde el ERP via API. Quedo al pendiente","label":"cfdi_rechazado"}
+{"id":"syn-test-082","text":"pásenme con una persona, el bot no eniende.","label":"escalar_humano"}
+{"id":"syn-test-083","text":"Buenas tardes, El enlace para activar la cuenta ya expiro","label":"acceso_cuenta"}
+{"id":"syn-test-084","text":"buen dia. tengo el plan pyme. commo pongo el folio fiscal que sustituye cuando cancelo con motivo 01? ya revise la documentacion y nada.","label":"cancelacion"}
+{"id":"syn-test-085","text":"Hola equipo de soporte, Cómo facturo un anticipo Es para una factura de 12,500 pesos","label":"facturacion_general"}
+{"id":"syn-test-086","text":"La operación no se concretó, ¿qué motivo de cancelación alpica?","label":"cancelacion"}
+{"id":"syn-test-087","text":"oigan, el pac me rechaza la factura porque el regimen fiscal del receptor no corresponde con su rfc. ayuda porfa","label":"cfdi_rechazado"}
+{"id":"syn-test-088","text":"disculpen, hay un cargo en mi tarjeta que no reconozco de su empresa. saludos","label":"escalar_humano"}
+{"id":"syn-test-089","text":"¿Se puede conectar su sistema con mi tienda en línea para facturar automático? Es urgente porque cierro mes.","label":"facturacion_general"}
+{"id":"syn-test-090","text":"Hola buenas, Ya revisé la guía de ayuda. Mi factura con objeto de impuesto 02 sale rechazada si el concepto no lleva IVA.","label":"cfdi_rechazado"}
+{"id":"syn-test-091","text":"hola, tengo el plan pyme. quiero desactivar la autenticacion en dos pasos. ya revise la documentacion y nda","label":"acceso_cuenta"}
+{"id":"syn-test-092","text":"los abonos que registro no se reflejan en el saldo pendiente de la factura.","label":"complemento_pago"}
+{"id":"syn-test-093","text":"Hola buenas, Dice que mi usuario no existe peero llevo años facturando aquí. Quedo al pendiente","label":"acceso_cuenta"}
+{"id":"syn-test-094","text":"Hola, El complemento de pago 2.0 me pide el objeto de impuesto del documento relacionado y no sé qué poner. Saludos","label":"complemento_pago"}
+{"id":"syn-test-095","text":"me marca error en el atributo exportacion cuando timbr,o nunca lo habia visto. saludos","label":"cfdi_rechazado"}
+{"id":"syn-test-096","text":"La factura salio con el nombre de otra empresa, se mezclaron los datos de clientes?","label":"escalar_humano"}
+{"id":"syn-test-097","text":"error al leer la llave privada, el archivo pesa 1kb","label":"certificado_csd"}
+{"id":"syn-test-098","text":"es la primera vez que me pasa. quiero que mi contador cargue el certificado sin darle mi contraseña. ya revise la documentacion y nada","label":"certificado_csd"}
+{"id":"syn-test-099","text":"quiero anular el CFDI de un cliente q nunca me pago","label":"cancelacion"}
+{"id":"syn-test-100","text":"Saluddos. Hice un recibo electronico de pago pero el numero de parcialidad salio mal. Saludos","label":"complemento_pago"}

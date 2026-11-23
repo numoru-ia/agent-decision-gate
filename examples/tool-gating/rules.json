@@ -1,0 +1,11 @@
+{
+  "default": "ask_human",
+  "rules": [
+    {"label": "deny", "note": "destructive SQL", "regex": ["\\b(drop|delete|truncate|update)\\b"], "fields": [{"field": "tool", "op": "==", "value": "db_query"}], "final": true},
+    {"label": "deny", "note": "no shell for the support agent", "fields": [{"field": "tool", "op": "in", "value": ["shell", "export_customers", "disable_2fa", "update_user"]}], "final": true},
+    {"label": "ask_human", "note": "money above a threshold is a rule, not a model opinion", "fields": [{"field": "args.amount", "op": ">", "value": 10000}], "final": true},
+    {"label": "allow", "note": "read-only allowlist", "fields": [{"field": "tool", "op": "in", "value": ["search_kb", "read_invoice", "get_csd_status", "summarize_thread", "translate"]}]},
+    {"label": "allow", "fields": [{"field": "tool", "op": "==", "value": "db_query"}, {"field": "args.sql", "op": "contains", "value": "select"}]},
+    {"label": "ask_human", "fields": [{"field": "tool", "op": "in", "value": ["cancel_invoice", "issue_refund", "stamp_invoice", "issue_credit_note", "reset_password", "remove_user", "upload_csd", "update_billing_email"]}]}
+  ]
+}

@@ -1,0 +1,300 @@
+{"id":"syn-train-001","text":"Buen día. ¿Por qué me desconecta cando abro otra pestaña","label":"acceso_cuenta"}
+{"id":"syn-train-002","text":"Por que me desconecta cuando abro otra pestaña? Es urgente porque cierro mes.","label":"acceso_cuenta"}
+{"id":"syn-train-003","text":"Cambié de celular y ya no tengo el código de verificación en dos pasos.","label":"acceso_cuenta"}
+{"id":"syn-train-004","text":"Como emito una nota de credito por un descuento? Quedo atento","label":"facturacion_general"}
+{"id":"syn-train-005","text":"Buenas tardes, Como invito a otro usuario a mi cuenta Muchas gracias de antemano.","label":"acceso_cuenta"}
+{"id":"syn-train-006","text":"Perdí la contraseña de mi llave privada del CSD.","label":"certificado_csd"}
+{"id":"syn-train-007","text":"buenas tardes, como hago una factura global de ventas a publico en generla? mi contador me dijo que les escribiera. ayuda porfa","label":"facturacion_general"}
+{"id":"syn-train-008","text":"Hola equipo de soporte, Quiero cancelar varias facturas al mismo tiempo, hay cancelacion masiva? Quedo al pendiente.","label":"cancelacion"}
+{"id":"syn-train-009","text":"disculpen, quiero cambiar el usuario administrador de la cuenta. muchas gracias de antemano.","label":"acceso_cuenta"}
+{"id":"syn-train-010","text":"Que tal, Desaparecieron todas mis facturas del panel, urgente!!! Ya actualice mi certificado el mes pasado. Quedo al pendiente.","label":"escalar_humano"}
+{"id":"syn-train-011","text":"bueen dí. no se pudo timbrar, aparece que el domiciliofiscalreceptor debe pertenecer al nombre asociado al rfc.","label":"cfdi_rechazado"}
+{"id":"syn-train-012","text":"Las facturas dsde la app móvil salen con error de validación pero desde la web sí timbran. Les escribo desde Monterrey.","label":"cfdi_rechazado"}
+{"id":"syn-train-013","text":"Necesito cambiar el dommicilio fiscal de mi empresa en las facts.","label":"facturacion_general"}
+{"id":"syn-train-014","text":"se puede cancelar sin que el cliente acepte? es una factura chiquita","label":"cancelacion"}
+{"id":"syn-train-015","text":"Buenas tardes, No me cuadra el saldo anterior de la segunda parcialidad. Es la primera vez que me pasa","label":"complemento_pago"}
+{"id":"syn-train-016","text":"se cancelo la factura sustituta y no la original, como lo arregglo? ya intente cerrar sesion y volver a entrar. ayuda porfa","label":"cancelacion"}
+{"id":"syn-train-017","text":"mi cliente me pide q cancele y refacture con otro uso de cfdi. gracias.","label":"cancelacion"}
+{"id":"syn-train-018","text":"Saludos. Ocupo dar de baja una factura de público en general que salió duplicada. Ya reviisé la guía de ayuda. Mi RFC es XAXX010101000.","label":"cancelacion"}
+{"id":"syn-train-019","text":"disculpen, mi contador me dijo que les escribiera. quiero que la factura se envíe automáticamente al correo del cliente. ya revisé la documentación y nada.","label":"facturacion_general"}
+{"id":"syn-train-020","text":"Una exempleada sigue teniendo acceso, ¿cómo la doy de baja?","label":"acceso_cuenta"}
+{"id":"syn-train-021","text":"Hola, Como emito una nota de credito por un descuento? Mi cliente es presona moral. Mi RFC es XAXX010101000.","label":"facturacion_general"}
+{"id":"syn-train-022","text":"Oigan, no sirve nada!!! llevo 3 horas sin poder timbrar y tengo clientes esperando Gracias.","label":"escalar_humano"}
+{"id":"syn-train-023","text":"la cancelación se queda en proceso desde hace una semana","label":"cancelacion"}
+{"id":"syn-train-024","text":"factura rechazada: el uso de cfdi g03 no es valido para el regimen 616 del receptor.","label":"cfdi_rechazado"}
+{"id":"syn-train-025","text":"ke clave de producto le pongo a una consulta medica Ayer si pude timbrar sin problema.","label":"facturacion_general"}
+{"id":"syn-train-026","text":"Buenas tardes, Cómo cambio el folio inicial de mis facturas? Quedo atento.","label":"facturacion_general"}
+{"id":"syn-train-027","text":"rechazo del timbrado: la clave de producto no existe en el catalogo.","label":"cfdi_rechazado"}
+{"id":"syn-train-028","text":"quiero cancelar la factura 1234 con motivo 02, comprobante con errores sin relación.","label":"cancelacion"}
+{"id":"syn-train-029","text":"necesito cancelar una factura que emití con el rfc equivocado.","label":"cancelacion"}
+{"id":"syn-train-030","text":"No me deja timbrar, el SAT dice que el codigo postl del domicilio fiscal del receptor no coincide.","label":"cfdi_rechazado"}
+{"id":"syn-train-031","text":"Saludos. La semana pasada cancelé otra factura sin problema. La contraseña nueva no la acepta, dice que no cumple los requisitos. Les mando captura","label":"acceso_cuenta"}
+{"id":"syn-train-032","text":"Por su error timbre facts con dats equivocados y mi clente me va a multar, quien se hace responsable?","label":"escalar_humano"}
+{"id":"syn-train-033","text":"restringieron mi certificado por no presentar declaraciones, ¿puedo seguir facturando con ustedes?","label":"certificado_csd"}
+{"id":"syn-train-034","text":"Hola buenas, No encuentro la opcion para relacionar varios pagos a una misma facutra. Ayer si pude timbrar sin problema.","label":"complemento_pago"}
+{"id":"syn-train-035","text":"Cuadno pongo retencion de ISR la factura no pasa, dcie que la tasa no es valida.","label":"cfdi_rechazado"}
+{"id":"syn-train-036","text":"Saludos. Alguien de su equipo me pidió mi contraseña por teléfono, ¿es legítimo? Ya revisé la documentación y nada.","label":"escalar_humano"}
+{"id":"syn-train-037","text":"Hola equipo de soporte, No se si lo que tengo es la FIEL o el CSD, los dos son .cer Es urgente porque cierro mes.","label":"certificado_csd"}
+{"id":"syn-train-038","text":"Disculpen, El receptor rechazo la solicitud de cancelacion, que hago ahora? Es urgente porque cierro mes.","label":"cancelacion"}
+{"id":"syn-train-039","text":"Buen día. Me dice q la contraseña de la llave privada es incorrecta pero es la misma que uso en el SAT. Ya intenté cerrar sesión y volver a entrar. Mi RFC es XAXX010101000.","label":"certificado_csd"}
+{"id":"syn-train-040","text":"Disculpen, Me pide numero de serie del certificado y no lo encuentro. Mucchas gracias de antemano.","label":"certificado_csd"}
+{"id":"syn-train-041","text":"Hoal equipo de soporte, Peudo tener dos empresas con el mismo usuario? Saludos","label":"acceso_cuenta"}
+{"id":"syn-train-042","text":"Hola, Necesito que un ejecutivo me contacte para renegociar. Mi RFC es XAXX010101000.","label":"escalar_humano"}
+{"id":"syn-train-043","text":"Cómo cambio la contraseña si ya estoy dentro?","label":"acceso_cuenta"}
+{"id":"syn-train-044","text":"Oigan, Puedo usar mi e.firma en lugar del sello digital para timrbar? Quedo atento.","label":"certificado_csd"}
+{"id":"syn-train-045","text":"No me cuadra el sadlo anterior de la segunda parcialidad.","label":"complemento_pago"}
+{"id":"syn-train-046","text":"saludos. mi cliente es persona moral. recibí el pago antes de emitir la factura, ¿se hace complemento o va como pue? les mando captura.","label":"complemento_pago"}
+{"id":"syn-train-047","text":"Me pagaron una factura con método PPD en una sola exhibición, ¿igual tengo que emitir complemento?","label":"complemento_pago"}
+{"id":"syn-train-048","text":"Oigan, Solicito el conrtato y las facturas de sus servicios de todo el año para un juicio. Es la primera vez que me pasa. Es urgente porque cierro mes.","label":"escalar_humano"}
+{"id":"syn-train-049","text":"Disculpen, Voy a levantar una queja en Profeco si no me resuelven hoy. Ayuda porrfa","label":"escalar_humano"}
+{"id":"syn-train-050","text":"Oiggan, Quiero hacer una factura con fecha de ayer, se puede? Les mando captura","label":"facturacion_general"}
+{"id":"syn-train-051","text":"Saludos. Que regimen fiscal pongo en mi perfil si soy RESICO? Ya revise la documentacion y nada","label":"facturacion_general"}
+{"id":"syn-train-052","text":"Buenas tardes, Mi cliente es persona moral. Cómo invito a otro usuario a mi cuuenta Quedo al pendiente.","label":"acceso_cuenta"}
+{"id":"syn-train-053","text":"disculpen, intente emitir una factura a mi cliente y salio rechazada con un mensaje de que el nombre no coincide con el registrado. les mando captura.","label":"cfdi_rechazado"}
+{"id":"syn-train-054","text":"Quiero que la factura se envíe automáticamente al correo del cliente. Mi cliiente es persona moral. Les manod captura.","label":"facturacion_general"}
+{"id":"syn-train-055","text":"buenas tardes, es pa una factura de 12,500 pesos. tengo el usuario pero no me acuerdo de la contraseña ni tengo acceso al correo viejo. ya revisé la documentación y nada.","label":"acceso_cuenta"}
+{"id":"syn-train-056","text":"Voy a levantar una queja en Profeco si no me resuelven hoy.","label":"escalar_humano"}
+{"id":"syn-train-057","text":"Hola, Quiero registrar un abono parcial a una factura a crédito. Ya revisé la documentación y nada.","label":"complemento_pago"}
+{"id":"syn-train-058","text":"Buen dia. Les escribo desde Monterrey. Mi contador dice que me flatan REPs del año pasado, como los saco todos de una ve?z Quedo al pendiente.","label":"complemento_pago"}
+{"id":"syn-train-059","text":"oigan, no timbra la fcatura en dólares, dice que falta el tipo de cambio o que está fuera de rango.","label":"cfdi_rechazado"}
+{"id":"syn-train-060","text":"no sirve nada!!! llevo 3 horas sin poder timbrar y tengo clientes esperanddo","label":"escalar_humano"}
+{"id":"syn-train-061","text":"Al cancelar me sale UUID no encontrado. Mi RFC es XAXX010101000.","label":"cancelacion"}
+{"id":"syn-train-062","text":"Oigan, Subi el certificado pero sigue apareciendo el numero de cretificado anterior en las facturas. Quedo al pendiente.","label":"certificado_csd"}
+{"id":"syn-train-063","text":"Buen dia. La pana se queda cargando despues de poner mi contraseña. Gracias","label":"acceso_cuenta"}
+{"id":"syn-train-064","text":"oigan, pueden firmar un convenio de confidencialidad con mi empresa?","label":"escalar_humano"}
+{"id":"syn-train-065","text":"Hola, El archivo .key no lo reconoce, dice formato inválido. Qedo atenot.","label":"certificado_csd"}
+{"id":"syn-train-066","text":"hola equipo de soporte, ya intente cerrar sesion y volver a entrar. el sat me rechaza la factura x el regimen, ya lo cambie y sigue igual es urgente porque cierro mes.","label":"cfdi_rechazado"}
+{"id":"syn-train-067","text":"buenas tardes, hubo una caída y se timbraron facturas duplicadas a mis clientes, necesito que alguien me llame. mi rfc es xaxx010101000.","label":"escalar_humano"}
+{"id":"syn-train-068","text":"Me cobraron dos veces la suscripción este mes, exijo el reembolso. Ya revisé la documentación y nada.","label":"escalar_humano"}
+{"id":"syn-train-069","text":"¿QQué clave de unidad uso paar servicios profesionales? Ya revisé la guía de ayuda.","label":"facturacion_general"}
+{"id":"syn-train-070","text":"Hola, Me suspendieron la cuenta sin aviso, necesito hablar con alguien ya.","label":"escalar_humano"}
+{"id":"syn-train-071","text":"Hola, Mi cliente es persona moral. Mi cliente no ha aceptado la cancelación y ya pasaron tres días. Gracias.","label":"cancelacion"}
+{"id":"syn-train-072","text":"tengo que cacelar un complemento de pago que hice duplicado.","label":"cancelacion"}
+{"id":"syn-train-073","text":"al hacer el complemento me pide numero de operacion, es obligatorio?","label":"complemento_pago"}
+{"id":"syn-train-074","text":"cuando pongo retencion de isr la fact no pasa, dice q la tasa no es valida. quedo al pendiente.","label":"cfdi_rechazado"}
+{"id":"syn-train-075","text":"Disculpen, Ya van tres veces que intento facturar a la misma empresa y me rebota, dice que el RFC no es válido. Mi RFC es XAXX010101000","label":"cfdi_rechazado"}
+{"id":"syn-train-076","text":"Oigan, Ayer si pude timbrar sin problema. Como facturo un servicio con retencion de IVA a una persona moral? Ayuda porfa","label":"facturacion_general"}
+{"id":"syn-train-077","text":"Mi abogado necesita un documento firmado sobre el tratamiento de mis datos.","label":"escalar_humano"}
+{"id":"syn-train-078","text":"Las notas de crédito que hago me las rebota el PAC con un error en el CFDI relacionado.","label":"cfdi_rechazado"}
+{"id":"syn-train-079","text":"hola, les escribo desde monterrey. quiero agregar una addenda para un cliente de autoservicio. quedo al pendient.","label":"facturacion_general"}
+{"id":"syn-train-080","text":"necesito saber hasta qué día tengo para emitir los complementos de pago del mes passado. saludos","label":"complemento_pago"}
+{"id":"syn-train-081","text":"oigan, necesito que un auxiliar pueda timbrar pero no cancelar, como configuro los permisos?","label":"acceso_cuenta"}
+{"id":"syn-train-082","text":"mi abogado necesita un documento firmado sobre el tratamieto de mis datos. muchas gracias de antemano.","label":"escalar_humano"}
+{"id":"syn-train-083","text":"¿puddo facturar en dólares?","label":"facturacion_general"}
+{"id":"syn-train-084","text":"Hola buenas, Es para una factura de 12,500 pesos. El SAT me mando una carta invitacion por diferencias en mis ingresos facturados, me pueden ayudar?","label":"escalar_humano"}
+{"id":"syn-train-085","text":"Quiero agregar una addenda para un cliente de autoservicio.","label":"facturacion_general"}
+{"id":"syn-train-086","text":"qué tal, necesito descargar todas las facturas del mes en un zip para mi contador. ya revisé la documentación y nada.","label":"facturacion_general"}
+{"id":"syn-train-087","text":"Como hago una carta porte para un traslado de mercancia","label":"facturacion_general"}
+{"id":"syn-train-088","text":"Dice certificado revocado cuando intento timbrar.","label":"certificado_csd"}
+{"id":"syn-train-089","text":"Buenas tardes, Pagaron con tarjeta en dos cargos, como registro ambos paggos. Mi RFC es XAXX010101000.","label":"complemento_pago"}
+{"id":"syn-train-090","text":"Mi cliente es persona moral. me pagaron en dolares una factura en pesos, como lleno el tipo de cambio del pago Mi RFC es XAXX010101000.","label":"complemento_pago"}
+{"id":"syn-train-091","text":"Hola, Mi socio creó la cuenta con su correo y ya no trabaja aquí, ¿cómo recupero el accso?","label":"acceso_cuenta"}
+{"id":"syn-train-092","text":"buenas tardes, como se llena la forma de pago en el complemento cuando fue compensacion. quedo atento.","label":"complemento_pago"}
+{"id":"syn-train-093","text":"hola, el sat me mando una carta invitacion por diferencias en mis ingresos facturados, me pueden ayudar? les mando captura","label":"escalar_humano"}
+{"id":"syn-train-094","text":"que tal, quiero presentar una reclamacion formal por el servicio. es urgente porque cierro mes.","label":"escalar_humano"}
+{"id":"syn-train-095","text":"se puede cancelar sin que el cliente acepte? es una factura chiquita Mi RFC es XAXX010101000.","label":"cancelacion"}
+{"id":"syn-train-096","text":"saludos. quiero cancelar la factura 1234 con motivo 02, comprobante con errores sin relacion. queod atento.","label":"cancelacion"}
+{"id":"syn-train-097","text":"Buen dia. El cliente ya me pago. Mi cliente me pide el REP de la factura PPD de marzo, donde lo hago? Gracias.","label":"complemento_pago"}
+{"id":"syn-train-098","text":"Bune dia. No se pudo timbrar, aparece que el DomicilioFiscalReceptor debe pertenecer al nombre asociado al RFC. Quedo al pendiente.","label":"cfdi_rechazado"}
+{"id":"syn-train-099","text":"Cuanto dura un certificado de sello digital?","label":"certificado_csd"}
+{"id":"syn-train-100","text":"Cambié de régimen y saqué un CSD nuevo, ¿tengo que borrar el viejo?","label":"certificado_csd"}
+{"id":"syn-train-101","text":"Me llego un corro de inicio de sesion desde otro esstado y no fui yo.","label":"escalar_humano"}
+{"id":"syn-train-102","text":"Me pide capttcha una y otra vez y no avanaz","label":"acceso_cuenta"}
+{"id":"syn-train-103","text":"Hola, No recibo el correo de verificación, ya revisé spam. Mi RFC es XAXX010101000","label":"acceso_cuenta"}
+{"id":"syn-train-104","text":"Me sale sesion expirada cada cinco minutos. Ya revise la documentacion y nada","label":"acceso_cuenta"}
+{"id":"syn-train-105","text":"Tengo el usuario pero no me acuerdo de la contraseña ni tengo acceso al correo viejo.","label":"acceso_cuenta"}
+{"id":"syn-train-106","text":"mi contador me dijo q les escribiera. quiero cancelar varias facturas al mismo tiempo, hay cancelacion masiva? saludos","label":"cancelacion"}
+{"id":"syn-train-107","text":"Buen dia. Como genero el complemento de pago de una fact que me pagaron en dos partes? Gracias.","label":"complemento_pago"}
+{"id":"syn-train-108","text":"¿Cómo hago una factura global de ventaas a público en general?","label":"facturacion_general"}
+{"id":"syn-train-109","text":"Hola equipo de soporte, Perid la contraseña de mi llave privada del CSD. Es para una factura de 12,500 pesos.","label":"certificado_csd"}
+{"id":"syn-train-110","text":"Buenas tardes, El SAT me dejó sin efectos el CSD, ¿cóom sé por qué? Ya revisé la documentación y nada.","label":"certificado_csd"}
+{"id":"syn-train-111","text":"Buen dia. Entre y me aparece otra empresa que no es la mia, pueden ver mis datos otras personas? Ya actualice mi certificado el mes pasado. Saludos","label":"escalar_humano"}
+{"id":"syn-train-112","text":"Hola buenas, Les escribo desde Monterrey. Facturé a un extranjero con RFC genérico y me da error de residencia fiscal.","label":"cfdi_rechazado"}
+{"id":"syn-train-113","text":"Oigan, Ya intente cerrar sesion y volver a entrar. Como reviso la viggencia de mi sello? Ayuda porfa","label":"certificado_csd"}
+{"id":"syn-train-114","text":"Buen día. Me llegó un correo de inicio de sesión desde otro estado y no fui yo. Quedo al pendiente.","label":"escalar_humano"}
+{"id":"syn-train-115","text":"Hola, Cuanto tiempo tego pa cancelar una fact de este mes","label":"cancelacion"}
+{"id":"syn-train-116","text":"Cómo hago una fatura con varios conceptos y diferentes tasas de IVA Quedo atento.","label":"facturacion_general"}
+{"id":"syn-train-117","text":"¿Cómo facturo un servicio con retención de IVA a una persona moral? Mi RFC es XAXX010101000.","label":"facturacion_general"}
+{"id":"syn-train-118","text":"Buen día. Necesito el XML de una factura que hice en enero.","label":"facturacion_general"}
+{"id":"syn-train-119","text":"Cancelé la nota de crédito pero la factura original sigue mostrando el saldo","label":"cancelacion"}
+{"id":"syn-train-120","text":"Oiga,n Al hacer el complemento me pide numero de operacion, es obligatorio? Ya revise la documentacion y nada","label":"complemento_pago"}
+{"id":"syn-train-121","text":"Entre y me aparece otra empresa que no es la mia, pueden ver mis datos otras personas? Saludos","label":"escalar_humano"}
+{"id":"syn-train-122","text":"Restringieron mi certificado por no presentar declaraciones, ¿puedo seguir facturando con ustedes? Es para una factura de 12,,500 pesos. Les mando captura.","label":"certificado_csd"}
+{"id":"syn-train-123","text":"Que tal, Subi el certificado pero sigue apareciendo el numero de certificado anterior en las facturas. Es urgente porq cierro mes.","label":"certificado_csd"}
+{"id":"syn-train-124","text":"¿Puedo tener dos empresas con el mismo usuario?","label":"acceso_cuenta"}
+{"id":"syn-train-125","text":"Hola, me pagaron en dolares una fact en pesos, como lleno el tipo de cambio del pago Mi contador me dijo q les escribiera. Ayuda porfa","label":"complemento_pago"}
+{"id":"syn-train-126","text":"Buenas tardes, Olvidé mi contraseña y no me llega el correo para restablecerla. El cliente ya me pagó. Muchas gracias de antemano.","label":"acceso_cuenta"}
+{"id":"syn-train-127","text":"Hola equipo de soporttte, Pagaron con tarjeta en dos cargos, como registro ambos pagos. Ayuda porfa","label":"complemento_pago"}
+{"id":"syn-train-128","text":"Hola, La semana pasada cancele otra factura sin problema. ya puse 5 veces la contra y nada, ayuda Quedo atento.","label":"acceso_cuenta"}
+{"id":"syn-train-129","text":"hola, quiero cambiar el usuario administrador de la cuenta. ya intente cerrar sesion y volver a entrar. saludos","label":"acceso_cuenta"}
+{"id":"syn-train-130","text":"Que tal, Puedo usar mi e.firma en lugar del sello digital para timbrar? Gracias.","label":"certificado_csd"}
+{"id":"syn-train-131","text":"Hola, La pagina se queda cargando despues de poner mi contraseña. Gracias.","label":"acceso_cuenta"}
+{"id":"syn-train-132","text":"hola buenas, recibí el pago antes de emitir la factura, ¿se hace complemento o va como pue? ya intenté cerrar sesión y volver a entrar. quedo al pendiente.","label":"complemento_pago"}
+{"id":"syn-train-133","text":"Al renovr el sello en el SAT me pide un archivo .req, lo genera su sistema","label":"certificado_csd"}
+{"id":"syn-train-134","text":"Oigan, Por que cancelar una factura me consume un timbre? Ayuda porfa","label":"cancelacion"}
+{"id":"syn-train-135","text":"Me reboto el XML que subi para timbrar por un problema con el nodo de impuestos locales. Mi cliente es persona moral.","label":"cfdi_rechazado"}
+{"id":"syn-train-136","text":"oigan, se canceló la factura sustituta y no la original, ¿cómo lo arreglo?","label":"cancelacion"}
+{"id":"syn-train-137","text":"hola buenas, les escribo desde monterrey. necesito hablar con alguien de ventas pa un plan de 50 empresas.","label":"escalar_humano"}
+{"id":"syn-train-138","text":"Saludos. Mi cliente me pide el REP de la factura PPD de maroz, ¿dónde lo hago? Ya revisé la guía de ayuda. Saludos","label":"complemento_pago"}
+{"id":"syn-train-139","text":"Disculpen, Mi cliente es persona moral. ¿Puedo mandar el recibo de pago por correo automáticamente al cliente cuando lo timbro?","label":"complemento_pago"}
+{"id":"syn-train-140","text":"Buenas tardes, El cliente ya me pago. Como hago una carta porte para un traslado de mercancia? Gracias.","label":"facturacion_general"}
+{"id":"syn-train-141","text":"hola, ¿se puede programar una factura recurrente cada mes para el mismo cliente","label":"facturacion_general"}
+{"id":"syn-train-142","text":"disculpen, quiero dar de baja la cuenta y que borren toda mi informacion. mi cliente es persona moral. gracias.","label":"escalar_humano"}
+{"id":"syn-train-143","text":"Cancelé por error una factura q sí estaba bien, ¿se puede revertir? El cliente ya me pagó. Es urgente xq cierro mes","label":"cancelacion"}
+{"id":"syn-train-144","text":"Hola buenas, Nos estan cobrando un precio diferente al que firmamos en el contrato. Les escribo desde Monterrey. Quedo atento.","label":"escalar_humano"}
+{"id":"syn-train-145","text":"Oigan, Mi certificado de sello digital venció y ya no puedo facturar.","label":"certificado_csd"}
+{"id":"syn-train-146","text":"Disculpen, Quieo crear una serie ditsinta para las facturas de la sucursal norte. Ayuda porfa","label":"facturacion_general"}
+{"id":"syn-train-147","text":"Tramite mi CSD en CertiSAT, como lo activo en la plataforma? Quedo atento.","label":"certificado_csd"}
+{"id":"syn-train-148","text":"Oigan, me sale error de sello al timbrar desde que renove la firma Ayuda porfa","label":"certificado_csd"}
+{"id":"syn-train-149","text":"Hola buenas, Necesito el XML de una factura que hice en enero. Ya revise la dcumentacion y nada.","label":"facturacion_general"}
+{"id":"syn-train-150","text":"disculpen, no puedo entrar desde que cambiaron el diseño del login. ya revise la documentacion y nada.","label":"acceso_cuenta"}
+{"id":"syn-train-151","text":"Nos estan cobrando un precio diferente al que firmamos en el contrato.","label":"escalar_humano"}
+{"id":"syn-train-152","text":"Saludos. Olvide mi contraseña y no me llega el correo para restablecerla. Ya revise la documentacion y nada.","label":"acceso_cuenta"}
+{"id":"syn-train-153","text":"Buen día. Necesito canceelar una faactura de nómina mal timbrada.","label":"cancelacion"}
+{"id":"syn-train-154","text":"hola equipo de soporte, no sé si lo que tengo es la fiel o el csd, los dos son .cer es la primera vez que me pasa. quedo al pendiente.","label":"certificado_csd"}
+{"id":"syn-train-155","text":"Por qué mi factura de exportación se rechaza si llené el complemento de comercio exterior? Muchas gracias de antemano.","label":"cfdi_rechazado"}
+{"id":"syn-train-156","text":"hola equipo de soporte, la semana pasada cancelé otra factura sin problema. tengo que cancelar un complemento de pago que hice duplicado. es urgente porque cierro mes","label":"cancelacion"}
+{"id":"syn-train-157","text":"hola buenas, ¿el seello digital caduca al mismo tiempo que la e.firma? quedo al pendiente.","label":"certificado_csd"}
+{"id":"syn-train-158","text":"Buenas tardes, Como doy de alta a un cliente nuevo con su constancia de situacion fiscal? Ya revise la documentacion y nada","label":"facturacion_general"}
+{"id":"syn-train-159","text":"Por que dice que el receptor no esta dado de alta en el SAT si lleva años operando?","label":"cfdi_rechazado"}
+{"id":"syn-train-160","text":"oiiagn, puedo cancelar una factura del ejercicio anterior","label":"cancelacion"}
+{"id":"syn-train-161","text":"hola buenas, al renovar el sello en el sat me pide un archivo .req, lo genera su sistema? ayuda porfa","label":"certificado_csd"}
+{"id":"syn-train-162","text":"Me suspendieron la cuenta sin aviso, necesito hablar con alguien ya.","label":"escalar_humano"}
+{"id":"syn-train-163","text":"Saludos. La validación dice que la fecha de emisión está fuera del rango permitido, la hice hoy mismo. Les mando captura.","label":"cfdi_rechazado"}
+{"id":"syn-train-164","text":"hola equipo de soporte, error cfdi40158 al facturar a publico en generla, que significa? gracias.","label":"cfdi_rechazado"}
+{"id":"syn-train-165","text":"Hola equipo de soporte, Necesito cancelar una fact que emití con el RFC equivocado. La semana pasada cancelé otra factura sin problea.","label":"cancelacion"}
+{"id":"syn-train-166","text":"Facture a un extranjero con RFC generico y me da error de residencia fiscal. Ayuda porfa","label":"cfdi_rechazado"}
+{"id":"syn-train-167","text":"El codigo de 6 digitos que me llega por SMS dice que es invalido.","label":"acceso_cuenta"}
+{"id":"syn-train-168","text":"Hola, Como importo mi catalogo de clientes desde Excel? Ayuda porfa","label":"facturacion_general"}
+{"id":"syn-train-169","text":"Disculpen, Me sale sesión expirada cada cico minutos. Ya revisé la documentacinó y nada.","label":"acceso_cuenta"}
+{"id":"syn-train-170","text":"el complemento de pago lleva iva desglosado","label":"complemento_pago"}
+{"id":"syn-train-171","text":"Saludos. La semana pasada cancelé otra factura sin problema. Desde ayer todas mis facturas regresan con error de validación de la estructura, no he cambiado nada. Quedo atento","label":"cfdi_rechazado"}
+{"id":"syn-train-172","text":"oigan, necesito cambiar el correo con el que entro a la cuenta.","label":"acceso_cuenta"}
+{"id":"syn-train-173","text":"Oigan, Por que dice que el receptor no esta dado de alta en el SAT si lleva años operando? Ya revise la guia de ayuda. Es urgente porque cierro mes.","label":"cfdi_rechazado"}
+{"id":"syn-train-174","text":"Saludos. Necesito cancelar una factura de nomina mal timbrada. Quedo al pendiente.","label":"cancelacion"}
+{"id":"syn-train-175","text":"No recibo el correo de verificación, ya revisé spam.","label":"acceso_cuenta"}
+{"id":"syn-train-176","text":"El receptor dice que no le llego el complemento de pago, se puede reenviar? Quedo atento.","label":"complemento_pago"}
+{"id":"syn-train-177","text":"Qué tal, Necesito saber hasta qué día tengo para emitir los complementos de pago del mes pasado. Saludos","label":"complemento_pago"}
+{"id":"syn-train-178","text":"Hola equipo de soporte, El timbrado falló justo en el cierre y me van a cobrar recargos, quiero que lo revisen personalmente.","label":"escalar_humano"}
+{"id":"syn-train-179","text":"hola equipo de soporte, ya puse 5 veces la contra y nada, ayuda el cliente ya me pago. ayuda porfa","label":"acceso_cuenta"}
+{"id":"syn-train-180","text":"Hola, Quiero dar de baja la cuenta y que borren toda mi informacion. Mi RFC es XAXX010101000.","label":"escalar_humano"}
+{"id":"syn-train-181","text":"Disculpen, Pueden firmar un convenio de confidencialidad con mi empresa? Ya actualice mi certificado el mes pasado","label":"escalar_humano"}
+{"id":"syn-train-182","text":"Buenas trdes, el sat me rechaza la factura x el regimen, ya lo cambie y sigue igual Muchas gracias de antemano.","label":"cfdi_rechazado"}
+{"id":"syn-train-183","text":"Saludos. Es la primera vez que me pasa. Desde ayer todas mis facturas regresan con error de validacion de la estructura, no he cambiado nada. Saludos","label":"cfdi_rechazado"}
+{"id":"syn-train-184","text":"buenas tardes, factura rechazada: el uso de cfdi g03 no es valido para el regimen 616 del receptor.","label":"cfdi_rechazado"}
+{"id":"syn-train-185","text":"No encuentro la ocion pa relacionar varios pagos a una misma fact. Mi cliente es persona moral. Mi RFC es XAXX010101000.","label":"complemento_pago"}
+{"id":"syn-train-186","text":"Mi contador dicce que me faltan REPs del año pasado, como los saco todos de una vez?","label":"complemento_pago"}
+{"id":"syn-train-187","text":"la cancelación se queda en proceso desde hace una semana.","label":"cancelacion"}
+{"id":"syn-train-188","text":"Buenas tardes, Mi cliente es persona moral. El saldo insoluto del recibo de pago me sale negativo.","label":"complemento_pago"}
+{"id":"syn-train-189","text":"No puedo cancelar facturas desde que camibe de certificado, dice que no corresponde. Quedo al pendiente.","label":"certificado_csd"}
+{"id":"syn-train-190","text":"necesito hablar con alguien de ventas para un plan de 50 empresas","label":"escalar_humano"}
+{"id":"syn-train-191","text":"buen dia. puedo cancelar una factura del ejercicio anterior? es urgente xq cierro mes.","label":"cancelacion"}
+{"id":"syn-train-192","text":"disculpen, cuanto tiepo tengo para cancelar una factura de este mes? ya actualice mi certificado el mes pasado. les mando captura.","label":"cancelacion"}
+{"id":"syn-train-193","text":"Oigan, La factura de ingreso no pasa la validacion, dce que el total no coincide con la suma de los conceptos. Saludos","label":"cfdi_rechazado"}
+{"id":"syn-train-194","text":"hola buenas, solicito el contrato y las facturas de sus servicios de todo el año para un juicio","label":"escalar_humano"}
+{"id":"syn-train-195","text":"Oigan, Tengo que actualizar el sello de una empresa que administro, donde se cambia? Ayua porfa","label":"certificado_csd"}
+{"id":"syn-train-196","text":"disculpen, no me valida la factura por el descuento, dice que es mayor al importe. mi rfc es xaxx010101000.","label":"cfdi_rechazado"}
+{"id":"syn-train-197","text":"Oigan, Las facturas desde la app móvil sallen con error de validación pero desde la web sí timbran. Ayuda porfa","label":"cfdi_rechazado"}
+{"id":"syn-train-198","text":"la factura de ingreso no pasa la validacion, dice que el total no coincide con la suma de los conceptos","label":"cfdi_rechazado"}
+{"id":"syn-train-199","text":"Buenas tardes, El sistema no me deja hacer el complemento porque la factura dice PUE.","label":"complemento_pago"}
+{"id":"syn-train-200","text":"No puedo entrar desde que cambiaron el diseño del login. Quedo atento.","label":"acceso_cuenta"}
+{"id":"syn-train-201","text":"Hola, La contraseña nueva no la acepta, dice que no cumple los requisitos. Quedo atento.","label":"acceso_cuenta"}
+{"id":"syn-train-202","text":"Cuando timbro el REP me marca que el importe pagado es mayor que el saldo anterior. Es para una factura de 12,500 pesos. Quedo atento","label":"complemento_pago"}
+{"id":"syn-train-203","text":"Buenas tardes, Les escribo desde Monterrey. Una exempleada sigue teniendo acceso, como la doy de baja? Es urgente porque cierro mes.","label":"acceso_cuenta"}
+{"id":"syn-train-204","text":"¿ué régimen ficsal pongo en mi perfil si soy RESICO","label":"facturacion_general"}
+{"id":"syn-train-205","text":"Buen dia. Las notas de credito que hago me las rebota el PAC con un error en el CFFDI relacionado.","label":"cfdi_rechazado"}
+{"id":"syn-train-206","text":"Quiero presentar una reclamacion formal por el servicio.","label":"escalar_humano"}
+{"id":"syn-train-207","text":"Hola buenas, me sale error de sello al timbrar desde que renove la firma Mi cliente es persona moral. Quedo al pendiente.","label":"certificado_csd"}
+{"id":"syn-train-208","text":"Hola, Cambie de celular y ya no tengo el codigo de verificacion en dos pasos. Les mando captura","label":"acceso_cuenta"}
+{"id":"syn-train-209","text":"hola equipo de soporte, necesito cambiar el domicilio fiscal de mi empresa en las facturas. muchas gracias de antemano.","label":"facturacion_general"}
+{"id":"syn-train-210","text":"Por qué mi factura de exportación se rechaza si llené el complemento de comercio exterior? Mi contaodr me dijo que les escribiera. Ayuda porfa","label":"cfdi_rechazado"}
+{"id":"syn-train-211","text":"Por que cancelar una factura me consume un timbre?","label":"cancelacion"}
+{"id":"syn-train-212","text":"El archivo .key no lo reconoce, dicce formato inválido.","label":"certificado_csd"}
+{"id":"syn-train-213","text":"Buen día. Me pagaron una factura con método PPD en una sola exhibición, ¿igual tengo que emitir complemento? Gracias.","label":"complemento_pago"}
+{"id":"syn-train-214","text":"Hola, Necesito que un ejecutivo me contacte pa renegociar.","label":"escalar_humano"}
+{"id":"syn-train-215","text":"Saludos. El sistema no me deja hacer el complemento porque la factura dice PUE. Tengo el plan Pyme. Mi RFC es XAXX010101000.","label":"complemento_pago"}
+{"id":"syn-train-216","text":"Que tal, Mi cliente me dio su constancia y aun asi la factura slae rechazada por el nombre con S.A. de C.V. Les mando captura","label":"cfdi_rechazado"}
+{"id":"syn-train-217","text":"Hola buenas, Les escribo desde Monterrey. Les pago el plan más caro y el soporte tarda días, quiero escalar esto. Ya revisé la documentación y nada.","label":"escalar_humano"}
+{"id":"syn-train-218","text":"saaludos. ¿cómo genero el complemento de pago de una factura que me pagaron en dos partes? gracias","label":"complemento_pago"}
+{"id":"syn-train-219","text":"Me pide captcha una y otra vez y no avanza","label":"acceso_cuenta"}
+{"id":"syn-train-220","text":"hola, se me bloqueó el acceso después de cambiar la contraseña. les mando captura.","label":"acceso_cuenta"}
+{"id":"syn-train-221","text":"Se me bloqueo el acceso despues de cambiar la contraseña","label":"acceso_cuenta"}
+{"id":"syn-train-222","text":"Hola buenas, Me pide numero de serie del certificado y no lo encuentro. Mi RFC es XAXX010101000.","label":"certificado_csd"}
+{"id":"syn-train-223","text":"Buenas tardes, Alguien de su equipo me pidio mi contraseña por telefono, es legitimo? Ayuda porfa","label":"escalar_humano"}
+{"id":"syn-train-224","text":"me piden el complemento de recepción de pagos pero la factura la emitió otro sistema.","label":"complemento_pago"}
+{"id":"syn-train-225","text":"Mi cliente no ha aceptado la cancelacion y ya pasaron tres dias. Es urgente porque cierro mes.","label":"cancelacion"}
+{"id":"syn-train-226","text":"Necesito que un auixliar pueda timbrar pero no cancelar, ¿cómo configuro los permisos?","label":"acceso_cuenta"}
+{"id":"syn-train-227","text":"Benas tardes, Cómo cambio la contraaseña si ya estoy dentro? Les mando captura.","label":"acceso_cuenta"}
+{"id":"syn-train-228","text":"Oigan, Donde agrego un producto nuevo con su clave del SAT? Saludos","label":"facturacion_general"}
+{"id":"syn-train-229","text":"Saludos. Tramité mi CSD en CertiSAT, ¿cómo lo activo en la plataforma? Les escribo desde Monterrey. Quedo atento.","label":"certificado_csd"}
+{"id":"syn-train-230","text":"Oigan, ¿Puedo mandar el recibo de paao por correo automáticamente al cliente cuando lo timbro? Quedo atento.","label":"complemento_pago"}
+{"id":"syn-train-231","text":"disculpen, el timbrado fallo justo en el cierre y me van a cobrar recargos, quiero que lo revisen personalmente. saludos","label":"escalar_humano"}
+{"id":"syn-train-232","text":"Hola equipo de soporte, Un cliente me pago tres facturas con una sola transferencia, como hago un solo complemento? Muchas gracisa de antemano.","label":"complemento_pago"}
+{"id":"syn-train-233","text":"No puedo iniciar seion, dice usuario o contraseña inocrrectos. Ya revise la documentacion y nada.","label":"acceso_cuenta"}
+{"id":"syn-train-234","text":"ya intente cerrar sesion y volver a entrar. mi cliente me dio su constancia y aun asi la factura sale rechazada por el nombre con s.a. de c.v. mi rfc es xaxx01010100.","label":"cfdi_rechazado"}
+{"id":"syn-train-235","text":"Qué tal, ¿Cómo reviso la vigencia de mi sello? Graicas","label":"certificado_csd"}
+{"id":"syn-train-236","text":"cuando la factura es grande piden aceptación, verdad? cómo sé si ya aceptaron","label":"cancelacion"}
+{"id":"syn-train-237","text":"donde subo los archivos .cer y .key del nuevo csd?","label":"certificado_csd"}
+{"id":"syn-train-238","text":"Saludos. El receptor diec que no le llegó el complemento de pago, ¿se puede reenviar?","label":"complemento_pago"}
+{"id":"syn-train-239","text":"Hola buenas, ¿El complemento de pago llevva IVA desglosado","label":"complemento_pago"}
+{"id":"syn-train-240","text":"Necesito descargar tdas las facturas del mes en un zip para mi contador","label":"facturacion_general"}
+{"id":"syn-train-241","text":"Que clave de unidad uso pa servicios profesionales? Quedo atento.","label":"facturacion_general"}
+{"id":"syn-train-242","text":"hola buenas, necesito una llamada hoy, esta en riesgo la nomina de 200 empleados. es urgente porque cierro mes.","label":"escalar_humano"}
+{"id":"syn-train-243","text":"Disculpen, Un cliente me pago tres facturas con una sola transferencia, como hago un solo complemento? El cliente ya me pago. Mi RFC es XAXX010101000.","label":"complemento_pago"}
+{"id":"syn-train-244","text":"Oigan, La validación dice que la fecha de emisión está fuera del rango permitido, la hice hoy mismo. La semana pasada cancelé otra factura sin problema. Quedo atento.","label":"cfdi_rechazado"}
+{"id":"syn-train-245","text":"Que tal, Cambie de regimen y saque un CSD nuevo, tengo que borrar el vieejo?","label":"certificado_csd"}
+{"id":"syn-train-246","text":"buen dia. el saldo insoluto del recibo de pago me sale negativo.","label":"complemento_pago"}
+{"id":"syn-train-247","text":"El SAT me dejó sin efectos el CSD, ¿cómo sé por qué?","label":"certificado_csd"}
+{"id":"syn-train-248","text":"Oigan, No puedo iniciar sesión, dice usuario o contraseña incorrectos.","label":"acceso_cuenta"}
+{"id":"syn-train-249","text":"no aparece la factura en la lista para agregarle el pago, ya está timbrada.","label":"complemento_pago"}
+{"id":"syn-train-250","text":"Que tal, Dice certificado revocado cuando intento timbra.r Quedo attento.","label":"certificado_csd"}
+{"id":"syn-train-251","text":"¿Su API permite timbrar desde mi ERP?","label":"facturacion_general"}
+{"id":"syn-train-252","text":"Disculpen, Me cobraron dos vcees la suscripción este mes, exijo el reembolso.","label":"escalar_humano"}
+{"id":"syn-train-253","text":"Que tal, ke clave de producto le pongo a una consulta medica Ayer si pude timbrar sin problema. Es urgente porque cierro mes.","label":"facturacion_general"}
+{"id":"syn-train-254","text":"Ya actualice mi certificado el mes pasado. Mi certificado de sello digital vencio y ya no puedo facturar. Ayuda porfa","label":"certificado_csd"}
+{"id":"syn-train-255","text":"Disculpen, Tengo una factura en estado rechazada en el panel y no entiendo el motvo que aparece. Es urgente porque cierro mes.","label":"cfdi_rechazado"}
+{"id":"syn-train-256","text":"que tal, una factura cancelada me aparece en el reporte de ingresos del mes. ayuda porfa","label":"cancelacion"}
+{"id":"syn-train-257","text":"Se puede programar una factura recurrente cada mes para el mismo cliente?","label":"facturacion_general"}
+{"id":"syn-train-258","text":"cómo hago una factura con varios conceptos y diferentes tasas de iva","label":"facturacion_general"}
+{"id":"syn-train-259","text":"Saludos. Mi contador me dijo que les escribiera. ¿Puedo facturar en dólarse?","label":"facturacion_general"}
+{"id":"syn-train-260","text":"¿su api permite timbrar desde mi erp? ya revisé la documentación y nada.","label":"facturacion_general"}
+{"id":"syn-train-261","text":"Ya van tres veces que intento facturar a la misma empresa y me rebota, dice que el RFC no es valido. Saludos","label":"cfdi_rechazado"}
+{"id":"syn-train-262","text":"No me deja timbrar, el SAT dice que el codigo postal del domicilio fiscal del receptor no coincide. Quedo al pendiente.","label":"cfdi_rechazado"}
+{"id":"syn-train-263","text":"cómo se llena la forma de pago en el complemento cuuando fue compensación. mi contador me dijo que les escribiera. saludos","label":"complemento_pago"}
+{"id":"syn-train-264","text":"que tal, como cambio el folio inicial de mis facturas? gracias.","label":"facturacion_general"}
+{"id":"syn-train-265","text":"hola buenas, me piden el complemento de recepción de pagos pero la factura la emitió otro sistema.","label":"complemento_pago"}
+{"id":"syn-train-266","text":"Buenas tardes, Al cancelar me sale UUID no encontrado. Muchas gracias de antemano","label":"cancelacion"}
+{"id":"syn-train-267","text":"No veo el botón de cancelar en el detalle de la factura. Ya actualicé mi certificado el mes pasado","label":"cancelacion"}
+{"id":"syn-train-268","text":"Buen día. ¿Dónde subo los archivos .cer y .key del nuevo CSD? Es urente porque cierro mes.","label":"certificado_csd"}
+{"id":"syn-train-269","text":"por su error timbre facturas con datos equivocados y mi cliente me va a multar, quien se hace responsable? muchas gracias de antemano.","label":"escalar_humano"}
+{"id":"syn-train-270","text":"hola, cuando la factura es grande piden aceptación, verdaad? cómo sé si ya aceptaron les mando captura","label":"cancelacion"}
+{"id":"syn-train-271","text":"Oigan, ¿Qué motivo de cancelación pongo si voy a sustituir la factura? Mi contador me dijo que les escribiera.","label":"cancelacion"}
+{"id":"syn-train-272","text":"El contador me mando los archivos del certificado en un zip, cual de todos subo?","label":"certificado_csd"}
+{"id":"syn-train-273","text":"Qué tal, Me dice que la contraseña de la llave privada es incorrecta pero es la misma que uso en el SAT. Ya revisé la documentación y nada.","label":"certificado_csd"}
+{"id":"syn-train-274","text":"Que tal, Es la primera vez que me pasa. Necesito cambiar el correo con el que entro a la cuenta. Quedo al pendiente.","label":"acceso_cuenta"}
+{"id":"syn-train-275","text":"Hola, Necsito una llamada hoy, está en riesgo la nómina de 200 empleados. Quedo atento.","label":"escalar_humano"}
+{"id":"syn-train-276","text":"saludos. el cliente ya me pago. me reboto el xml que subi para timbrar por un problema con el nodo de impuestos locales. quedo atento.","label":"cfdi_rechazado"}
+{"id":"syn-train-277","text":"ocupo dar de baja una factura de público en general q salió duplicada","label":"cancelacion"}
+{"id":"syn-train-278","text":"Donde agrego un producto nuevo con su clave del SAT? Gracias.","label":"facturacion_general"}
+{"id":"syn-train-279","text":"Hubo una caída y se timbraron facturas duplicadas a mis clientes, necesito que alguen me llame.","label":"escalar_humano"}
+{"id":"syn-train-280","text":"Que tal, Quiero registrar un abonno parcial a una factura a credito.","label":"complemento_pago"}
+{"id":"syn-train-281","text":"Buenas tardes, Mi contador me dijo que les escribiera. Desaparecieron todas mis facturas del panel, urgente!!! Mi RFC es XAXX010101000","label":"escalar_humano"}
+{"id":"syn-train-282","text":"cuanto dura un certificado de sello digital?","label":"certificado_csd"}
+{"id":"syn-train-283","text":"Hola buenas, Quiero hacer una fact con fecha de ayer, ¿se puede? Es urgente porque cierro mes.","label":"facturacion_general"}
+{"id":"syn-train-284","text":"El receptor rechazo la solicitud de cancelacion, que hago ahora?","label":"cancelacion"}
+{"id":"syn-train-285","text":"Qué tal, Cacelé por error una factura que sí estaba bien, ¿se puede revertir? Ya revisé la guía de ayuda.","label":"cancelacion"}
+{"id":"syn-train-286","text":"hola, tengo q actualizar el sello de una empresa que administro, ¿dónde se cambia? ayuda porfa","label":"certificado_csd"}
+{"id":"syn-train-287","text":"Cuando timbro el REP me marca que el importe pagado es mayor que el saldo anterior.","label":"complemento_pago"}
+{"id":"syn-train-288","text":"Disculpen, Rechazo del timbrado: la clave de producto no existe en el catalogo. Quedo atento.","label":"cfdi_rechazado"}
+{"id":"syn-train-289","text":"Hola equipo de soporte, Cancele la nota de credito pero la factura original sigue mostrando el saldo. Mi RFC es XAXX010101000.","label":"cancelacion"}
+{"id":"syn-train-290","text":"qué tal, ya intenté cerrar sesión y volver a entrar. mi socio creó la cuenta con su correo y ya no trabaja aquí, ¿cómo recupero el acceso","label":"acceso_cuenta"}
+{"id":"syn-train-291","text":"Disculpen, La semana pasada cancelé otra fact sin problema. Intenté emitir una factura a mi cliente y salió rechazada con un mensaje de q el nombre no coincide con el registrado","label":"cfdi_rechazado"}
+{"id":"syn-train-292","text":"disculpen, el contador me mandó los archivos del certificado en un zip, ¿cuál de todos subo? la semana pasada cancelé otra factura sin problema. mi rfc es xaxx010101000.","label":"certificado_csd"}
+{"id":"syn-train-293","text":"Hola, No timbra la factura en dolares, dice que falta el tipo de cambio o que esta fuera de rango. Saludos","label":"cfdi_rechazado"}
+{"id":"syn-train-294","text":"buenas tardes, mi cliente me pide q cancele y refacture con otro uso de cfdi. quedo al pendiente.","label":"cancelacion"}
+{"id":"syn-train-295","text":"disculpen, ya intente cerrar sesion y volver a entrar. como doy de alta a un cliente nuevo con su constancia de situacion fiscal?","label":"facturacion_general"}
+{"id":"syn-train-296","text":"error cfdi40158 al facturar a publico en general, que significa? muchas gracias de antemano.","label":"cfdi_rechazado"}
+{"id":"syn-train-297","text":"Buen día. Ya intenté cerrar sesión y vovler a entrar. Una fact cancelada me aparece en el reporte de ingress del mes. Quedo atento.","label":"cancelacion"}
+{"id":"syn-train-298","text":"Hola buenas, No veo el botón de cancelar en el detalle de la factura. Ya intenté cerrar sesión y volver a entrar. Ya revisé la documentación y nada.","label":"cancelacion"}
+{"id":"syn-train-299","text":"oigan, no me valida la factura por el descuento, dice que es mayor al importe. ya actualice mi certificaddo el mes pasado. les mando captuura.","label":"cfdi_rechazado"}
+{"id":"syn-train-300","text":"buenas tardes, ¿el sello digital caduca al mismo tiempo que la e.firma? ya revisé la documentación y nada.","label":"certificado_csd"}

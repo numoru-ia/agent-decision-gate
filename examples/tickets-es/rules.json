@@ -1,0 +1,13 @@
+{
+  "default": "facturacion_general",
+  "rules": [
+    {"label": "escalar_humano", "any": ["supervisor", "profeco", "queja", "reclamacion", "inaceptable", "reembolso", "abogado", "juicio", "suscripcion", "no fui yo", "pasenme con", "hablar con alguien", "ejecutivo", "contrato"], "weight": 2},
+    {"label": "cfdi_rechazado", "regex": ["cfdi40\\d{3}", "error \\d{3}\\b"], "weight": 2},
+    {"label": "cfdi_rechazado", "any": ["rechaz", "rebota", "rebot", "no timbra", "no pasa la validacion", "error de validacion", "no valida"]},
+    {"label": "complemento_pago", "any": ["complemento de pago", "rep ", "reps", "recibo de pago", "recibo electronico de pago", "parcialidad", "saldo insoluto", "ppd", "abono"], "weight": 2},
+    {"label": "cancelacion", "any": ["cancel", "anular", "motivo 01", "motivo 02", "motivo 03", "acuse de cancelacion"]},
+    {"label": "certificado_csd", "any": ["csd", "sello digital", "certificado", ".cer", ".key", "llave privada", "certisat", "e.firma", "fiel"], "weight": 2},
+    {"label": "acceso_cuenta", "any": ["contrasena", "iniciar sesion", "login", "dos pasos", "bloquead", "usuario", "verificacion", "captcha", "permisos"]},
+    {"label": "facturacion_general", "any": ["como hago", "como facturo", "como emito", "clave de producto", "clave de unidad", "logo", "serie", "addenda", "factura global", "carta porte", "reporte"]}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "tool_gate",
+  "description": "Should the agent execute this proposed tool call? The state is the JSON of the call.",
+  "labels": [
+    {"name": "allow", "description": "Read-only or in-ticket action with no side effects outside the conversation."},
+    {"name": "deny", "description": "Destructive, exfiltrating, privilege-escalating or credential-revealing action."},
+    {"name": "ask_human", "description": "Legitimate action with side effects (money, fiscal documents, accounts): a person confirms first."}
+  ]
+}

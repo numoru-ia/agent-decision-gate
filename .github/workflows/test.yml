@@ -1,0 +1,34 @@
+name: test
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        go: ["1.22", "stable"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version: ${{ matrix.go }}
+      - name: gofmt
+        run: test -z "$(gofmt -l .)" || (gofmt -l . && exit 1)
+      - name: vet
+        run: go vet ./...
+      - name: test
+        run: go test -race -cover ./...
+      - name: bench smoke (rules + local, synthetic data)
+        run: |
+          go build -o bin/decide ./cmd/decide
+          bin/decide train -data examples/tickets-es/synthetic-train.jsonl -out /tmp/tickets.gz
+          bin/decide bench -question examples/tickets-es/question.json \
+            -test examples/tickets-es/synthetic-test.jsonl \
+            -backends "rules=examples/tickets-es/rules.json,local=/tmp/tickets.gz"
